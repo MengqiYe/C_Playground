@@ -4,3 +4,4 @@ project(C_Playground C)
 set(CMAKE_C_STANDARD 99)
 
 add_subdirectory(alloc)
+add_subdirectory(gui)
